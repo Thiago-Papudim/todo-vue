@@ -45,7 +45,7 @@
     }
   }
 
-  const cadastrarTarefa = () => {
+  const cadastraTarefa = () => {
     const tarefaNova = {
       titulo: estado.tarefaTemp,
       finalizada: false,
